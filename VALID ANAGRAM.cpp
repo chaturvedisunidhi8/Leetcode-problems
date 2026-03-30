@@ -1,5 +1,5 @@
 //Given two strings s and t, return true if t is an anagram of s, and false otherwise.
-class Solution {
+class Solution { 
 public:
     bool isAnagram(string s, string t) {
         
