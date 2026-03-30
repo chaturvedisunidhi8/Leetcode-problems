@@ -3,7 +3,7 @@
 //Given a string s, return true if it is a palindrome, or false otherwise.
  
 
-class Solution {
+class Solution { 
 public:
     bool isAlphanumeric(char ch) {
         if ((ch >= '0' && ch <= '9') || 
