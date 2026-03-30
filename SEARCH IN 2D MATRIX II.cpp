@@ -3,7 +3,7 @@
 Integers in each row are sorted in ascending from left to right.
 Integers in each column are sorted in ascending from top to bottom.*/
 
-class Solution {
+class Solution { 
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
 
